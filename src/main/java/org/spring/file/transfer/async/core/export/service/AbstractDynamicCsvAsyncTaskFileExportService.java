@@ -21,7 +21,7 @@ import java.util.Optional;
 
 /**
  * @author tiny
- * @apiNote
+ * 
  * @since 2023/5/15 下午8:16
  */
 @Slf4j
@@ -87,7 +87,8 @@ public abstract class AbstractDynamicCsvAsyncTaskFileExportService<R, P, I exten
 
     /**
      * 获取动态字段的属性
-     *
+     * @param r
+     * @param params
      * @return
      */
     public abstract List<DynamicFieldModel> getFieldList(R r, P params);

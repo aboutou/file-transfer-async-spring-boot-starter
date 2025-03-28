@@ -11,7 +11,7 @@ import org.spring.file.transfer.async.domain.service.TaskIdGenerator;
 
 /**
  * @author tiny
- * @apiNote
+ * 
  * @since 2023/5/14 下午10:06
  */
 public interface TaskFileService<P> extends TaskCallbackHandler<P> {
@@ -34,7 +34,6 @@ public interface TaskFileService<P> extends TaskCallbackHandler<P> {
      * 任务的前置校验，比如任务不能同时进行多
      *
      * @param param
-     * @return
      */
     default void preConditions(P param) {
 

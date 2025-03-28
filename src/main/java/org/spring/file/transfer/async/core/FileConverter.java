@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  * @author tiny
- * @apiNote
+ * 
  * @since 2023/5/6 下午10:02
  */
 public interface FileConverter<T> {

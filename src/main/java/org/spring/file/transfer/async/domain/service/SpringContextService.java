@@ -7,7 +7,7 @@ import org.springframework.context.ApplicationContextAware;
 
 /**
  * @author tiny
- * @apiNote
+ * 
  * @since 2023/5/12 下午5:51
  */
 public class SpringContextService implements ApplicationContextAware, DisposableBean {

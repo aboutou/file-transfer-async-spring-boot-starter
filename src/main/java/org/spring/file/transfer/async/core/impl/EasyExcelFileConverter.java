@@ -10,11 +10,7 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * <dependency>
- * <groupId>com.alibaba</groupId>
- * <artifactId>easyexcel</artifactId>
- * <version>3.3.2</version>
- * </dependency>
+ * 
  *
  * @author bm
  */

@@ -6,7 +6,7 @@ import org.springframework.http.HttpInputMessage;
 
 /**
  * @author tiny
- * @apiNote
+ * 
  * @since 2023/5/14 上午10:19
  */
 public interface FileContentConverter {

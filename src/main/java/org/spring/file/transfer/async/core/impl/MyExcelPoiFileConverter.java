@@ -9,11 +9,6 @@ import java.util.Arrays;
 import java.util.List;
 
 /**
- * <dependency>
- * <groupId>com.github.liaochong</groupId>
- * <artifactId>myexcel</artifactId>
- * <version>4.3.0.RC5</version>
- * </dependency>
  *
  * @param <T>
  * @author bm

@@ -36,7 +36,6 @@ public interface TaskService<T, R> {
      *
      * @param taskType
      * @param taskId
-     * @return
      */
     void remove(TaskType taskType, String bizType, Serializable taskId);
 

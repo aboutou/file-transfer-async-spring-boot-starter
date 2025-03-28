@@ -20,7 +20,7 @@ import java.util.function.Consumer;
 
 /**
  * @author tiny
- * @apiNote
+ * 
  * @since 2023/5/14 上午10:55
  */
 public abstract class DynamicClassUtil {

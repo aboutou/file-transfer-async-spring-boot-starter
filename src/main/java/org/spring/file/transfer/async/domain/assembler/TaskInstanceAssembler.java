@@ -7,7 +7,7 @@ import org.mapstruct.ReportingPolicy;
 
 /**
  * @author tiny
- * @apiNote
+ * 
  * @since 2023/5/18 上午11:44
  */
 @Mapper(unmappedTargetPolicy = ReportingPolicy.IGNORE, implementationPackage = "<PACKAGE_NAME>.impl")

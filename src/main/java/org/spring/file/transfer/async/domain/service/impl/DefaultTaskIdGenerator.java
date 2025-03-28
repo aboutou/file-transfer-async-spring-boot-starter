@@ -6,7 +6,7 @@ import org.apache.commons.lang3.RandomStringUtils;
 
 /**
  * @author tiny
- * @apiNote
+ * 
  * @since 2023/5/17 下午6:15
  */
 public class DefaultTaskIdGenerator implements TaskIdGenerator {

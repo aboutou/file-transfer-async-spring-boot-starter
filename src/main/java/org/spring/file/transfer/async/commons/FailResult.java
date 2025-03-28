@@ -23,7 +23,6 @@ public class FailResult<R extends Serializable> implements Serializable {
      * 导入数据唯一标识
      * 如果是easypoi，可以查看 IExcelDataModel获取数据所在行号作为唯一标识
      *
-     * @return
      * @see cn.afterturn.easypoi.handler.inter.IExcelDataModel
      */
     @ApiModelProperty("数据唯一标识")

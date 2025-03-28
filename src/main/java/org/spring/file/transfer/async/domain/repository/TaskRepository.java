@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  * @author tiny
- * @apiNote
+ * 
  * @since 2023/5/12 下午4:05
  */
 public interface TaskRepository<T extends TaskInstance> {

@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  * @author tiny
- * @apiNote
+ * 
  * @since 2023/5/6 下午9:58
  */
 public interface BizType {
@@ -14,21 +14,18 @@ public interface BizType {
     /**
      * 业务代码
      *
-     * @return
      */
     String getCode();
 
     /**
      * 业务名称
      *
-     * @return
      */
     String getName();
 
     /**
      * 错误排序循序
      *
-     * @return
      */
     default List<String> errFieldOrder() {
         return null;
@@ -37,7 +34,6 @@ public interface BizType {
     /**
      * 忽略字段不显示
      *
-     * @return
      */
     default List<String> ignoreField() {
         return null;

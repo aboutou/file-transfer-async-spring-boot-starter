@@ -14,7 +14,7 @@ import java.util.List;
 
 /**
  * @author tiny
- * @apiNote
+ * 
  * @since 2023/5/17 下午6:04
  */
 @ConditionalOnClass(ColumnPositionMappingStrategy.class)

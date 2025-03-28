@@ -98,7 +98,7 @@ public class FastJsonUtil {
 
 
     /**
-     * @Description 字符串转ObjectNode
+     * 字符串转ObjectNode
      **/
     public static ObjectNode toObjectNode(String text) {
         ObjectNode objectNode = null;

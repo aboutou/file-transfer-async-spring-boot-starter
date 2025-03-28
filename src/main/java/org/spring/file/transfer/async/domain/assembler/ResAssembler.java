@@ -27,7 +27,7 @@ import java.util.stream.Collectors;
 
 /**
  * @author tiny
- * @apiNote
+ * 
  * @since 2023/5/18 下午2:07
  */
 @Mapper(unmappedTargetPolicy = ReportingPolicy.IGNORE, implementationPackage = "<PACKAGE_NAME>.impl")

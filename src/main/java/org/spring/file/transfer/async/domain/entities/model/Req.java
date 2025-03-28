@@ -10,7 +10,7 @@ import org.springframework.core.ResolvableTypeProvider;
 
 /**
  * @author tiny
- * @apiNote
+ * 
  * @since 2023/5/12 下午11:20
  */
 @Getter

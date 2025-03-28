@@ -6,7 +6,7 @@ import java.io.Serializable;
 
 /**
  * @author tiny
- * @apiNote
+ * 
  * @since 2023/5/12 下午4:45
  */
 public interface TaskIdGenerator {

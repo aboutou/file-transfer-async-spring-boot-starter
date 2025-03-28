@@ -7,7 +7,7 @@ import org.spring.file.transfer.async.web.dto.param.ImportTaskParam;
 
 /**
  * @author tiny
- * @apiNote
+ * 
  * @since 2023/5/8 下午3:28
  */
 public interface FileImportHandler extends TaskHandler {

@@ -6,7 +6,7 @@ import java.io.Serializable;
 
 /**
  * @author tiny
- * @apiNote
+ * 
  * @since 2023/5/14 下午10:20
  */
 @Getter
