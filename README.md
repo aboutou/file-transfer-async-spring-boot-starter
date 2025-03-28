@@ -39,7 +39,7 @@
 
 ```
 <dependency>  
-    <groupId>org.spring.file.transfer.async</groupId>  
+    <groupId>io.github.aboutou</groupId>  
     <artifactId>file-transfer-async-spring-boot-starter</artifactId>  
     <version>最新版本</version>   
 </dependency>
